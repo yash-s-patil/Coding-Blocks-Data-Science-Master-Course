@@ -2,6 +2,7 @@
 
 ### Course Contents
 <br/>
+
 Part 1: Python Programming 
   1. Python Basics 
   2. Data Structures and OOP
