@@ -83,7 +83,7 @@ Part 11: Reinforcement Learning
   3. Q Learning, Replay Buffer
   4. Building AI for Games
 
-Libraries, Frameworks
+### Libraries, Frameworks
   1. Pandas (Data Handling)
   2. Scrapy, Beautiful Soup (Data Acquisition)
   3. Matplotlib, Seaborn (Data Visualisation)
@@ -126,5 +126,5 @@ Libraries, Frameworks
   1. AI Image Caption Bot- Generating Captions for images using CNN & LSTM on Flickr8K dataset.
   2. ML + Web Project: Creating ML Based Web Service (Django)
 
-Bonus:
+### Bonus:
  1. Integrating ML Models with Web (Flask)
